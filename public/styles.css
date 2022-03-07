@@ -600,13 +600,6 @@ video {
   border-color: rgba(229, 231, 235, var(--tw-border-opacity));
 }
 
-a{
-  --tw-text-opacity: 1;
-  color: rgba(16, 185, 129, var(--tw-text-opacity));
-  text-decoration: underline;
-  color: blue;
-}
-
 .container {
   width: 100%;
 }
@@ -639,14 +632,6 @@ a{
   .container {
     max-width: 1536px;
   }
-}
-
-.menu-button{
-  --tw-bg-opacity: 1;
-  background-color: rgba(99, 102, 241, var(--tw-bg-opacity));
-  padding: 0.75rem;
-  --tw-text-opacity: 1;
-  color: rgba(255, 255, 255, var(--tw-text-opacity));
 }
 
 .sr-only {
@@ -32257,10 +32242,6 @@ a{
 
 .content-none {
   content: none;
-}
-
-.text-green-500{
-  color: blue;
 }
 
 @media (min-width: 640px) {
